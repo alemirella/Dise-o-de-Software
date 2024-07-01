@@ -1,0 +1,13 @@
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\bin\Debug\RedSolidaria.exe.config
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\bin\Debug\RedSolidaria.exe
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\bin\Debug\RedSolidaria.pdb
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.csproj.AssemblyReference.cache
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.Form1.resources
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.Properties.Resources.resources
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.csproj.GenerateResource.cache
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.csproj.CoreCompileInputs.cache
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.exe
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.pdb
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.Form2.resources
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.Form3.resources
+C:\Users\ALE\source\repos\RedSolidaria\RedSolidaria\obj\Debug\RedSolidaria.Form4.resources
